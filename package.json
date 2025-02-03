@@ -33,7 +33,7 @@
     "@medusajs/event-bus-redis": "latest",
     "@medusajs/file-local": "latest",
     "@medusajs/medusa": "latest",
-    "@tanstack/react-query": "4.22.0",
+    "@tanstack/react-query": "5.66.0",
     "@temporalio/activity": "^1.9.3",
     "@temporalio/client": "^1.9.3",
     "@temporalio/worker": "^1.9.3",
